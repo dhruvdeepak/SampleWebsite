@@ -1,0 +1,2 @@
+generics logging
+all the new errors will be logged here
